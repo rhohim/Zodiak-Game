@@ -1,0 +1,172 @@
+[
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q1.gif",
+      "name": "Hal dibawah ini yang menggambarkan seorang Virgo…",
+      "type": "q1",
+      "answers": [
+         {
+            "answer1": "Kompetitif ",
+            "val1": 1,
+            "answer2": "Ambisius abis",
+            "val2": 2,
+            "answer3": "Melankolis ",
+            "val3": 3,
+            "answer4": "Perfeksionis",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q2.gif",
+      "name": "Kalo lagi hectic, gue itu biasanya…",
+      "type": "q2",
+      "answers": [
+         {
+            "answer1": "Panik",
+            "val1": 1,
+            "answer2": "Anti minta bantuan",
+            "val2": 10,
+            "answer3": "Butuh cemilan",
+            "val3": 2,
+            "answer4": "Minta bantuan",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q3.gif",
+      "name": "Kalo gue masuk nominasi toxic, gue langsung bawa piala…",
+      "type": "q3",
+      "answers": [
+         {
+            "answer1": "Manipulatif",
+            "val1": 1,
+            "answer2": "Ngarepin mantan padahal gak mungkin",
+            "val2": 2,
+            "answer3": "Gengsi tingkat international\n",
+            "val3": 10,
+            "answer4": "Minim rasa peduli\n",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q4.gif",
+      "name": "Gue banyak belajar, karena gue harus ngontrol…",
+      "type": "q4",
+      "answers": [
+         {
+            "answer1": "Mood yang cepet banget berubah\n",
+            "val1": 10,
+            "answer2": "Males buat kerja",
+            "val2": 1,
+            "answer3": "Omongan jorok",
+            "val3": 2,
+            "answer4": "Keinginan buat gak setia",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q5.gif",
+      "name": "Kalo h-1 jam gue disuruh ajak orang-orang komplek buat ikutan camping acara kantor, udah pasti…",
+      "type": "q5",
+      "answers": [
+         {
+            "answer1": "Nyiapin barang-barang H-1 Jam\n",
+            "val1": 1,
+            "answer2": "Bawa diri aja sih gue\n",
+            "val2": 2,
+            "answer3": "Well prepared banget dah rempong orangnya\n",
+            "val3": 10,
+            "answer4": "Kayaknya skip, gasuka camping\n",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q6.gif",
+      "name": "Hal yang boleh di adu kalo Virgo itu orangnya…",
+      "type": "q6",
+      "answers": [
+         {
+            "answer1": "Gak impulsif \n",
+            "val1": 1,
+            "answer2": "Gak ngomong doang\n",
+            "val2": 10,
+            "answer3": "Gak tobat-tobat\n",
+            "val3": 2,
+            "answer4": "Iya-iya aja\n",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q7.gif",
+      "name": "Kata Rayhan, gue itu orangnya begitu syulid melupakan dia dan gue juga…",
+      "type": "q7",
+      "answers": [
+         {
+            "answer1": "Mandi sendiri biar mandiri\n",
+            "val1": 1,
+            "answer2": "Pengen keliatan cakep biar banyak yang naksir\n",
+            "val2": 2,
+            "answer3": "Pengen keliatan sibuk biar keren\n",
+            "val3": 3,
+            "answer4": "Pengen keliatan sempurna, detail abis",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q8.gif",
+      "name": "Orang-orang suka risih sama gue karena…",
+      "type": "q8",
+      "answers": [
+         {
+            "answer1": "Suka ngomentarin hal yang gak penting\n",
+            "val1": 10,
+            "answer2": "Suka kamu tapi kamu enggak\n",
+            "val2": 1,
+            "answer3": "Suka jalan tapi gak ada gandengan\n",
+            "val3": 2,
+            "answer4": "Suka ngontrol tapi gak bisa ngontrol emosi\n",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q9.gif",
+      "name": "Penyakit seorang Virgo…",
+      "type": "q9",
+      "answers": [
+         {
+            "answer1": "Overdosis kantong kering\n",
+            "val1": 1,
+            "answer2": "Overthinking stadium akhir\n",
+            "val2": 10,
+            "answer3": "Overreact ketemu gebetan\n",
+            "val3": 2,
+            "answer4": "Overtime pas lagi me time\n",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/virgo/q10.gif",
+      "name": "Yang bikin orang seneng kalo gibah sama gue…",
+      "type": "q10",
+      "answers": [
+         {
+            "answer1": "Selalu ada tambahan gosip\n",
+            "val1": 1,
+            "answer2": "Selalu ada bumbu makin asik\n",
+            "val2": 2,
+            "answer3": "Bisa nyambung, ngobrol 24/7\n",
+            "val3": 10,
+            "answer4": "Bisa terpengaruh sama gibahan\n",
+            "val4": 3
+         }
+      ]
+   }
+   ]

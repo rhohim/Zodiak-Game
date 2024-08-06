@@ -1,0 +1,172 @@
+[
+    {
+      "image": "https://cretivox.com/zodiac/pisces/q1.gif",
+      "name": "Gue paling gak bisa deket sama orang yang…",
+      "type": "q1",
+      "answers": [
+         {
+            "answer1": "Kalo makan gak abis",
+            "val1": 1,
+            "answer2": "Gak deketin gue duluan",
+            "val2": 2,
+            "answer3": "Gak bisa komitmen",
+            "val3": 10,
+            "answer4": "Kerjaannya main mulu",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/pisces/q2.gif",
+      "name": "Gue lemah banget kalo soal…",
+      "type": "q2",
+      "answers": [
+         {
+            "answer1": "Kalo tau sahabat gue lagi kenapa-napa",
+            "val1": 10,
+            "answer2": "Crush gue punya pacar baru",
+            "val2": 1,
+            "answer3": "Liat pocong gak bisa lompat",
+            "val3": 2,
+            "answer4": "Diputusin sepihak sama pacar",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/pisces/q3.gif",
+      "name": "Dateng ke perpustakaan buat jualan, dateng ke gue buat belajar…",
+      "type": "q3",
+      "answers": [
+         {
+            "answer1": "Jadi pusat perhatian",
+            "val1": 1,
+            "answer2": "Masak nasi goreng",
+            "val2": 2,
+            "answer3": "Bikin ayang seneng",
+            "val3": 10,
+            "answer4": "Atur jadwal kegiatan yang rapih",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/pisces/q4.gif",
+      "name": "Salah satu kelebihan gue yang gue banggain tuh…",
+      "type": "q4",
+      "answers": [
+         {
+            "answer1": "Gak kekurangan duit pas akhir bulan",
+            "val1": 1,
+            "answer2": "Bisa selalu ada buat siapapun",
+            "val2": 10,
+            "answer3": "Bisa salto sambil kayang",
+            "val3": 2,
+            "answer4": "Cakep gue kelebihan gue",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/pisces/q5.gif",
+      "name": "Kata kakek Dodo, gue pas kecil bandel. Kalo pas gede, gue selalu…",
+      "type": "q5",
+      "answers": [
+         {
+            "answer1": "Males ngobrol sama orang",
+            "val1": 1,
+            "answer2": "Iseng ke orang",
+            "val2": 2,
+            "answer3": "Lebih bandel lagi",
+            "val3": 3,
+            "answer4": "Berusaha bantuin orang lain",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/pisces/q6.gif",
+      "name": "Kalo lagi diem gak ada kerjaan, biasanya gue…",
+      "type": "q6",
+      "answers": [
+         {
+            "answer1": "Nulis apapun yang ada di pikiran",
+            "val1": 10,
+            "answer2": "Pesen makanan",
+            "val2": 1,
+            "answer3": "Olahraga",
+            "val3": 2,
+            "answer4": "Bantuin kerjaan temen",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/pisces/q7.gif",
+      "name": "Temen gue suka greget sama gue soalnya…",
+      "type": "q7",
+      "answers": [
+         {
+            "answer1": "Jorok banget",
+            "val1": 1,
+            "answer2": "Gampang pelupa",
+            "val2": 10,
+            "answer3": "Terlalu manja",
+            "val3": 2,
+            "answer4": "Lemot otaknya",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/pisces/q8.gif",
+      "name": "Kalo temen gue kena razia di jalan, gue bakal…",
+      "type": "q8",
+      "answers": [
+         {
+            "answer1": "Pasrah aja",
+            "val1": 1,
+            "answer2": "Nyelametin diri sendiri",
+            "val2": 2,
+            "answer3": "Ngumpet soalnya penakut",
+            "val3": 3,
+            "answer4": "Bantuin temen gue selagi bisa",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/pisces/q9.gif",
+      "name": "Mantan gue ahlinya nyakitin gue, kalo gue ahlinya…",
+      "type": "q9",
+      "answers": [
+         {
+            "answer1": "Bales dendam nyakitin balik",
+            "val1": 1,
+            "answer2": "Ninggalin masa lalu dan fokus ke masa depan",
+            "val2": 10,
+            "answer3": "Stuck di orang yang udah sering nyakitin",
+            "val3": 2,
+            "answer4": "Milih tempat makan yang enak",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "hhttps://cretivox.com/zodiac/pisces/q10.gif",
+      "name": "Kadang kerjaan gue lama kelarnya, soalnya gue…",
+      "type": "q10",
+      "answers": [
+         {
+            "answer1": "Kebanyakan ngobrol",
+            "val1": 1,
+            "answer2": "Males-malesan ngerjainnya",
+            "val2": 2,
+            "answer3": "Terlalu idealis",
+            "val3": 10,
+            "answer4": "Sambil makan mulu",
+            "val4": 3
+         }
+      ]
+   }
+   ]

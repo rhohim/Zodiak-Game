@@ -1,0 +1,172 @@
+[
+    {
+      "image": "https://cretivox.com/zodiac/leo/q1.gif",
+      "name": "Hal yang paling orang-orang kagumi dari gue adalah?",
+      "type": "q1",
+      "answers": [
+         {
+            "answer1": "Hemat garis keras\n",
+            "val1": 1,
+            "answer2": "Banyak duit",
+            "val2": 2,
+            "answer3": "Arogan ",
+            "val3": 10,
+            "answer4": "Unik",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/leo/q2.gif",
+      "name": "Saking #Hargadirinomorsatu, gue itu suka gemes sama orang yang…",
+      "type": "q2",
+      "answers": [
+         {
+            "answer1": "Gak pede sama diri sendiri",
+            "val1": 10,
+            "answer2": "Banyak mau",
+            "val2": 1,
+            "answer3": "Pipi tembem",
+            "val3": 2,
+            "answer4": "Omong doang",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/leo/q3.gif",
+      "name": "Dalam hubungan gue gak bisa banget kalo…",
+      "type": "q3",
+      "answers": [
+         {
+            "answer1": "Di bucinin",
+            "val1": 1,
+            "answer2": "Di kontrol",
+            "val2": 10,
+            "answer3": "Di spamin video gemas",
+            "val3": 2,
+            "answer4": "Di kejar",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/leo/q4.gif",
+      "name": "Ada dimana gue males banget buat minum, sampe akhirnya gue haus…",
+      "type": "q4",
+      "answers": [
+         {
+            "answer1": "Akan pujian",
+            "val1": 10,
+            "answer2": "Akan tetapi",
+            "val2": 1,
+            "answer3": "Akan sesuatu",
+            "val3": 2,
+            "answer4": "Akan berlalu",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/leo/q5.gif",
+      "name": "Satpam itu romantis ya, ngobrol aja dari HT ke HT. Kalo gue gak bisa kayak mereka, soalnya gue…",
+      "type": "q5",
+      "answers": [
+         {
+            "answer1": "Biasa aja",
+            "val1": 1,
+            "answer2": "Susah buat maafin",
+            "val2": 2,
+            "answer3": "Susah buat ngelupain masalah\n",
+            "val3": 10,
+            "answer4": "Susah buat ngontrolnya",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/leo/q6.gif",
+      "name": "Dibawah ini adalah prinsip seorang Leo…",
+      "type": "q6",
+      "answers": [
+         {
+            "answer1": "Berdiam menunggu keajaiban",
+            "val1": 1,
+            "answer2": "Lo Lo, Gue Gue",
+            "val2": 2,
+            "answer3": "Hidup seperti air, mengalir",
+            "val3": 3,
+            "answer4": "Selalu berusaha supaya gak dikhianatin hasil",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/leo/q7.gif",
+      "name": "Sifat yang orang-orang pengenin dari gue….",
+      "type": "q7",
+      "answers": [
+         {
+            "answer1": "Mentingin diri sendiri",
+            "val1": 10,
+            "answer2": "Cepet bisa move on",
+            "val2": 1,
+            "answer3": "Duitnya dong",
+            "val3": 2,
+            "answer4": "Buang sampah pada tempatnya",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/leo/q8.gif",
+      "name": "Kalo soal kerjaan, gue itu…",
+      "type": "q8",
+      "answers": [
+         {
+            "answer1": "Yang penting selesai aja",
+            "val1": 1,
+            "answer2": "Berantakan ",
+            "val2": 2,
+            "answer3": "Gak suka setengah-setengah",
+            "val3": 10,
+            "answer4": "Biasa aja",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/leo/q9.gif",
+      "name": "Kalo gue hidup di bawah laut dan bergelimang harta, gue bakal…",
+      "type": "q9",
+      "answers": [
+         {
+            "answer1": "Ngaku udah sultan di darat\n",
+            "val1": 1,
+            "answer2": "Boros",
+            "val2": 10,
+            "answer3": "Tuker nasib\n",
+            "val3": 2,
+            "answer4": "Terus berenang\n",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/leo/q10.gif",
+      "name": "Pasangan gue bakal bahagia, karena gue itu selalu kasih…",
+      "type": "q10",
+      "answers": [
+         {
+            "answer1": "Seperangkat alat sholat \n",
+            "val1": 1,
+            "answer2": "Puisi",
+            "val2": 2,
+            "answer3": "Waktu \n",
+            "val3": 3,
+            "answer4": "Surprise \n",
+            "val4": 10
+         }
+      ]
+   }
+   ]

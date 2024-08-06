@@ -1,0 +1,172 @@
+[
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q1.gif",
+      "name": "Gue itu orangnya baik, tapi kelemahan gue…",
+      "type": "q1",
+      "answers": [
+         {
+            "answer1": "Posesif ",
+            "val1": 1,
+            "answer2": "Moodyan ",
+            "val2": 10,
+            "answer3": "Setia, setiap tikungan ada\n",
+            "val3": 2,
+            "answer4": "Sering kodam",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q2.gif",
+      "name": "Kalo ada gosip, gue itu biasanya...",
+      "type": "q2",
+      "answers": [
+         {
+            "answer1": "Heboh",
+            "val1": 10,
+            "answer2": "Nambahin gosip baru",
+            "val2": 1,
+            "answer3": "Nangis",
+            "val3": 2,
+            "answer4": "Bodo amat",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q3.gif",
+      "name": "Biasanya kalo gue ketemu sama orang baru, gue cenderung…",
+      "type": "q3",
+      "answers": [
+         {
+            "answer1": "Menghindar",
+            "val1": 1,
+            "answer2": "Sok-sok sibuk",
+            "val2": 2,
+            "answer3": "Ngalir aja gue",
+            "val3": 10,
+            "answer4": "Pingsan",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q4.gif",
+      "name": "Gue itu tipe yang kalo udah gak suka biasanya…",
+      "type": "q4",
+      "answers": [
+         {
+            "answer1": "Gue sindir di sosmed",
+            "val1": 1,
+            "answer2": "Gue omongin langsung",
+            "val2": 10,
+            "answer3": "Gue biarin aja sampe lupa",
+            "val3": 2,
+            "answer4": "Gue labrak",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q5.gif",
+      "name": "Kalo ada pilihan ketemu kuntilanak atau genderuwo, gue bakal milih…",
+      "type": "q5",
+      "answers": [
+         {
+            "answer1": "Milih diceritain",
+            "val1": 1,
+            "answer2": "Milih tidurin aja",
+            "val2": 2,
+            "answer3": "Milih bikin tweet ",
+            "val3": 3,
+            "answer4": "Milih buat kabur",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q6.gif",
+      "name": "Biasanya gue itu lebih suka dipuji pas dibilang…",
+      "type": "q6",
+      "answers": [
+         {
+            "answer1": "“Lo perhatian banget orangnya”",
+            "val1": 10,
+            "answer2": "“Lo ngide banget orangnya”",
+            "val2": 1,
+            "answer3": "“Ada yang beda dari lo”\n",
+            "val3": 2,
+            "answer4": "“Wangi banget deh lo”\n",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q7.gif",
+      "name": "Jangan gampang baper, nanti hati lo ancur kaya wafer. Makanya gue suka mikir pake…",
+      "type": "q7",
+      "answers": [
+         {
+            "answer1": "Logika",
+            "val1": 1,
+            "answer2": "Fakta",
+            "val2": 2,
+            "answer3": "Intuisi hati",
+            "val3": 10,
+            "answer4": "Dengkul ",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q8.gif",
+      "name": "Kalo healing biasanya gue selalu…",
+      "type": "q8",
+      "answers": [
+         {
+            "answer1": "Dadakan \n",
+            "val1": 1,
+            "answer2": "Jauh-jauh hari",
+            "val2": 2,
+            "answer3": "H-3 jam gaspol",
+            "val3": 3,
+            "answer4": "Well prepared",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q9.gif",
+      "name": "Kalo capek tuh istirahat bukan malah……ke pasangan",
+      "type": "q9",
+      "answers": [
+         {
+            "answer1": "Clingy ",
+            "val1": 10,
+            "answer2": "Marah-marah",
+            "val2": 1,
+            "answer3": "Nangis",
+            "val3": 2,
+            "answer4": "Ngilang",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/cancer/q10.gif",
+      "name": "Kalo ada orang yang senggol bacok gue, udah pasti….",
+      "type": "q10",
+      "answers": [
+         {
+            "answer1": "Cuek aja sih",
+            "val1": 1,
+            "answer2": "Dendam abis",
+            "val2": 10,
+            "answer3": "Gue bilang nyokap gue",
+            "val3": 2,
+            "answer4": "Diem aja soalnya cupu",
+            "val4": 3
+         }
+      ]
+   }
+   ]

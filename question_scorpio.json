@@ -1,0 +1,172 @@
+[
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q1.gif",
+      "name": "Gue sering ditegur temen-temen karena gue orangnya…",
+      "type": "q1",
+      "answers": [
+         {
+            "answer1": "Bawel",
+            "val1": 1,
+            "answer2": "Kalo ngerjain sesuatu suka sendirian",
+            "val2": 10,
+            "answer3": "Kalo makan suka gak abis",
+            "val3": 2,
+            "answer4": "Jorok kalo di kamar",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q2.gif",
+      "name": "Biasanya kalo ada yang jahat ke gue, respon gue…",
+      "type": "q2",
+      "answers": [
+         {
+            "answer1": "Gak bakal lupain dan maafin",
+            "val1": 10,
+            "answer2": "Bales sama kebaikan",
+            "val2": 1,
+            "answer3": "Gue sebarin sifat jahatnya",
+            "val3": 2,
+            "answer4": "Bodo amat",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q3.gif",
+      "name": "Gue suka maksain diri sendiri soalnya gue…",
+      "type": "q3",
+      "answers": [
+         {
+            "answer1": "Maunya bagus sendirian",
+            "val1": 1,
+            "answer2": "Keras kepala",
+            "val2": 2,
+            "answer3": "Gengsi buat minta bantuan",
+            "val3": 10,
+            "answer4": "Anak rajin, patuh, taat kepada orang tua",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q4.gif",
+      "name": "Sifat yang lagi gue benerin itu soal…",
+      "type": "q4",
+      "answers": [
+         {
+            "answer1": "Trust issue ke orang",
+            "val1": 10,
+            "answer2": "Pilih-pilih kalo makan",
+            "val2": 1,
+            "answer3": "Caper",
+            "val3": 2,
+            "answer4": "Suka ngomongin orang dibelakang",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q5.gif",
+      "name": "Badut ulang tahun di komplek deket rumah suka heran sama sifat gue karena…",
+      "type": "q5",
+      "answers": [
+         {
+            "answer1": "Kerjaannya ngeluh mulu",
+            "val1": 1,
+            "answer2": "Kalo makan banyak banget",
+            "val2": 2,
+            "answer3": "Hobinya ngomongin orang",
+            "val3": 3,
+            "answer4": "Gue pemberani",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q6.gif",
+      "name": "Kadang orang suka penasaran sama gue, tapi gue sendiri…",
+      "type": "q6",
+      "answers": [
+         {
+            "answer1": "Penasaran juga sih",
+            "val1": 1,
+            "answer2": "Gak mau orang terlalu tau tentang gue",
+            "val2": 10,
+            "answer3": "Bodo amat sama diri gue",
+            "val3": 2,
+            "answer4": "Lebih penasaran sama orang lain",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q7.gif",
+      "name": "Hari ini gue ngulek sambel, masang genteng, benerin pipa. Soalnya hidup gue…",
+      "type": "q7",
+      "answers": [
+         {
+            "answer1": "Selalu ada strateginya biar sesuai plan",
+            "val1": 1,
+            "answer2": "Gabut kerjaannya",
+            "val2": 2,
+            "answer3": "Maunya main mulu",
+            "val3": 3,
+            "answer4": "Suka explore sana-sini",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q8.gif",
+      "name": "Ini kata temen-temen gue pas udah kenal gue dari lama…",
+      "type": "q8",
+      "answers": [
+         {
+            "answer1": "“Tatapan lo tajem banget, serem.”",
+            "val1": 10,
+            "answer2": "“Ah lo penakut mulu deh.”",
+            "val2": 1,
+            "answer3": "“Kok lo suka banget traktir sih.”",
+            "val3": 2,
+            "answer4": "“Kenapa jadi orang ramah banget sih.”",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q9.gif",
+      "name": "Olahraga tuh emang malesin, tapi lebih males lagi…",
+      "type": "q9",
+      "answers": [
+         {
+            "answer1": "Orang yang terlalu ambisius",
+            "val1": 1,
+            "answer2": "Orang yang bawel banget",
+            "val2": 2,
+            "answer3": "Mendaki gunung",
+            "val3": 3,
+            "answer4": "Terlalu bergantung sama orang lain",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/scorpio/q10.gif",
+      "name": "Gue gak bisa tahan sama orang yang…",
+      "type": "q10",
+      "answers": [
+         {
+            "answer1": "Maunya menang sendiri",
+            "val1": 1,
+            "answer2": "Pelit",
+            "val2": 2,
+            "answer3": "Ucapan sama perlakuan beda",
+            "val3": 10,
+            "answer4": "Kalo bales chat lama",
+            "val4": 3
+         }
+      ]
+   }
+   ]

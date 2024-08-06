@@ -1,0 +1,172 @@
+[
+    {
+      "image": "https://cretivox.com/zodiac/capri/q1.gif",
+      "name": "Istilah aku gak bisa hidup tanpa kamu, yang versi gue tuh…",
+      "type": "q1",
+      "answers": [
+         {
+            "answer1": "Gak bisa hidup tanpa pacar",
+            "val1": 1,
+            "answer2": "Gak bisa hidup tanpa kerja",
+            "val2": 10,
+            "answer3": "Gak bisa hidup tanpa coklat",
+            "val3": 2,
+            "answer4": "Gak bisa hidup tanpa kendaraan pribadi",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/capri/q2.gif",
+      "name": "Ini work ethic gue yang bagus buat selalu diterapin…",
+      "type": "q2",
+      "answers": [
+         {
+            "answer1": "Nanya kalo gak tau",
+            "val1": 1,
+            "answer2": "Makan siang selalu tepat waktu",
+            "val2": 2,
+            "answer3": "Disiplin kalo kerja",
+            "val3": 10,
+            "answer4": "Ngasih makanan mulu",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/capri/q3.gif",
+      "name": "Gue lama buat dapet pacar soalnya…",
+      "type": "q3",
+      "answers": [
+         {
+            "answer1": "Gak ada yang mau sama gue",
+            "val1": 1,
+            "answer2": "Nunggu dijodohin",
+            "val2": 2,
+            "answer3": "Maunya didatengin",
+            "val3": 3,
+            "answer4": "Gue gak gampang jatuh cinta",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/capri/q4.gif",
+      "name": "Gue suka bikin ribet diri sendiri dengan…",
+      "type": "q4",
+      "answers": [
+         {
+            "answer1": "Suka gengsi buat minta tolong",
+            "val1": 10,
+            "answer2": "Selalu nalangin tiap lagi pergi rame",
+            "val2": 1,
+            "answer3": "Inisiatif anterin temen-temen balik",
+            "val3": 2,
+            "answer4": "Minta kerjaan yang banyak",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/capri/q5.gif",
+      "name": "Bule di Lenteng Agung cocok kalo main sama gue, soalnya gue…",
+      "type": "q5",
+      "answers": [
+         {
+            "answer1": "Pendengar yang baik",
+            "val1": 10,
+            "answer2": "Bagus kalo ngasih nasehat",
+            "val2": 1,
+            "answer3": "Otaknya pinter",
+            "val3": 2,
+            "answer4": "Jago cas cis cus",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/capri/q6.gif",
+      "name": "Ibarat makanan, gue itu kayak…",
+      "type": "q6",
+      "answers": [
+         {
+            "answer1": "Coklat, soalnya manis",
+            "val1": 1,
+            "answer2": "Cabe, mulutnya pedes",
+            "val2": 10,
+            "answer3": "Kentang, jokes gue garing",
+            "val3": 2,
+            "answer4": "Duren, suka nusuk orang",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/capri/q7.gif",
+      "name": "Gue bisa dapet undian 100 juta dan voucher ngontrak di SCBD soalnya gue…",
+      "type": "q7",
+      "answers": [
+         {
+            "answer1": "Punya uang banyak",
+            "val1": 1,
+            "answer2": "Sering sosialisasi sama orang",
+            "val2": 2,
+            "answer3": "Suka bantuin temen yang lagi susah",
+            "val3": 10,
+            "answer4": "Hoki anaknya",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/capri/q8.gif",
+      "name": "Kadang suka capek sama diri sendiri soalnya…",
+      "type": "q8",
+      "answers": [
+         {
+            "answer1": "Kebanyakan makan mulu",
+            "val1": 1,
+            "answer2": "Selalu usaha biar dinilai bagus",
+            "val2": 10,
+            "answer3": "Suka muka dua ke orang",
+            "val3": 2,
+            "answer4": "Boros",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/capri/q9.gif",
+      "name": "Hal yang harus gue perbaikin dari diri gue tuh…",
+      "type": "q9",
+      "answers": [
+         {
+            "answer1": "Cuek ke orang lain",
+            "val1": 1,
+            "answer2": "Suka cari perhatian",
+            "val2": 2,
+            "answer3": "Muka dua",
+            "val3": 3,
+            "answer4": "Suka nyalahin diri sendiri",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/capri/q10.gif",
+      "name": "Cara paling ampuh kalo mau deketin gue tuh…",
+      "type": "q10",
+      "answers": [
+         {
+            "answer1": "Minta tolong lewat temen gue",
+            "val1": 1,
+            "answer2": "Dari aplikasi dating",
+            "val2": 2,
+            "answer3": "Jadi temen gue dulu",
+            "val3": 10,
+            "answer4": "Langsung DM gue",
+            "val4": 3
+         }
+      ]
+   }
+   ]

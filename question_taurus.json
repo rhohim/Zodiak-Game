@@ -1,0 +1,172 @@
+[
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q1.gif",
+      "name": "Ibarat makanan, gue itu…",
+      "type": "q1",
+      "answers": [
+         {
+            "answer1": "Kayak eskrim dingin tapi manis",
+            "val1": 10,
+            "answer2": "Kayak kerupuk kulit, asin",
+            "val2": 1,
+            "answer3": "Kayak jeruk nipis, asem",
+            "val3": 2,
+            "answer4": "Kayak ati ampela, pait",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q2.gif",
+      "name": "Kata temen-temen, gue itu…",
+      "type": "q2",
+      "answers": [
+         {
+            "answer1": "Suka menolong",
+            "val1": 1,
+            "answer2": "Pembawa hal buruk",
+            "val2": 2,
+            "answer3": "Pendengar yang baik",
+            "val3": 10,
+            "answer4": "Senggol bacok",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q3.gif",
+      "name": "Kalo ayam jago kukuruyuk, kalo gue jago…",
+      "type": "q3",
+      "answers": [
+         {
+            "answer1": "Memberi kepastian",
+            "val1": 1,
+            "answer2": "Melamun ",
+            "val2": 2,
+            "answer3": "Mencari pacar baru",
+            "val3": 3,
+            "answer4": "Memprioritaskan sesuatu",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q4.gif",
+      "name": "Gue paling benci kalo…",
+      "type": "q4",
+      "answers": [
+         {
+            "answer1": "Ada duit",
+            "val1": 1,
+            "answer2": "Ada di situasi sulit",
+            "val2": 10,
+            "answer3": "Perut buncit",
+            "val3": 2,
+            "answer4": "Dicubit",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q5.gif",
+      "name": "Taurus itu punya indera ke-7, gue bisa liat…",
+      "type": "q5",
+      "answers": [
+         {
+            "answer1": "Orang yang palsu atau boong",
+            "val1": 10,
+            "answer2": "Orang yang berdiri tapi gak napak",
+            "val2": 1,
+            "answer3": "Orang yang genius banget\n",
+            "val3": 2,
+            "answer4": "Orang yang sederhana tapi wah\n",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q6.gif",
+      "name": "Kalo ada orang yang nyari masalah, gue biasanya…",
+      "type": "q6",
+      "answers": [
+         {
+            "answer1": "Jarang marah, langsung dilupain",
+            "val1": 1,
+            "answer2": "Jarang marah, jadi ketawain aja",
+            "val2": 2,
+            "answer3": "Jarang marah, sekalinya marah diluapin abis-abisan",
+            "val3": 10,
+            "answer4": "Jarang marah, paling aibnya udah gue sebar",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q7.gif",
+      "name": "Tinki winnki dipsi lala poh bikin kedai mie ayam, banyak yang bilang…",
+      "type": "q7",
+      "answers": [
+         {
+            "answer1": "Gue picky dalam segala hal",
+            "val1": 10,
+            "answer2": "Gue cepet ngelupain mantan",
+            "val2": 1,
+            "answer3": "Gue kalo makan ngecap",
+            "val3": 2,
+            "answer4": "Gue suka kayang",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q8.gif",
+      "name": "Zodiak gue membawa keberuntungan, dan valid banget kalo taurus itu…",
+      "type": "q8",
+      "answers": [
+         {
+            "answer1": "Banyak duitnya",
+            "val1": 1,
+            "answer2": "Jadi yang terdepan\n",
+            "val2": 2,
+            "answer3": "Banyak yang suka",
+            "val3": 10,
+            "answer4": "Jadi penasaran\n",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q9.gif",
+      "name": "Tom and Jerry suka berantem, hal yang selalu jadi perdebatan orang ketika ngeliat gue….",
+      "type": "q9",
+      "answers": [
+         {
+            "answer1": "Bad influence",
+            "val1": 1,
+            "answer2": "Realistis mampus",
+            "val2": 10,
+            "answer3": "Omongannya pedes",
+            "val3": 2,
+            "answer4": "Ngang ngong",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/taurus/q10.gif",
+      "name": "Gue seneng bisa berguna karena gue itu…",
+      "type": "q10",
+      "answers": [
+         {
+            "answer1": "Bisa diboongin\n",
+            "val1": 1,
+            "answer2": "Bisa dimanfaatin",
+            "val2": 2,
+            "answer3": "Bisa diduain",
+            "val3": 3,
+            "answer4": "Bisa diandalkan",
+            "val4": 10
+         }
+      ]
+   }
+   ]

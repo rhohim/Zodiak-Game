@@ -1,0 +1,172 @@
+[
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q1.gif",
+      "name": "Orang suka ngira gue jutek karena…",
+      "type": "q1",
+      "answers": [
+         {
+            "answer1": "Sifat gue dingin",
+            "val1": 10,
+            "answer2": "Muka gue nyebelin",
+            "val2": 1,
+            "answer3": "Kalo dimintain makanan gamau ngasih",
+            "val3": 2,
+            "answer4": "Duit gue abis mulu",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q2.gif",
+      "name": "Kadang temen gue cape sama gue soalnya…",
+      "type": "q2",
+      "answers": [
+         {
+            "answer1": "Kalo makan belepotan",
+            "val1": 1,
+            "answer2": "Kalo tidur kebo banget",
+            "val2": 2,
+            "answer3": "Gue sering rebel",
+            "val3": 10,
+            "answer4": "Suka ngerepotin",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q3.gif",
+      "name": "Gue gampang berteman, kecuali sama orang yang…",
+      "type": "q3",
+      "answers": [
+         {
+            "answer1": "Kalo kentut sembarangan",
+            "val1": 1,
+            "answer2": "Hidupnya terlalu rapih",
+            "val2": 10,
+            "answer3": "Gak bisa masak",
+            "val3": 2,
+            "answer4": "Kerjaannya main mulu",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q4.gif",
+      "name": "Temen-temen gue sering nyariin gue kalo soal…",
+      "type": "q4",
+      "answers": [
+         {
+            "answer1": "Kalo butuh ditemenin",
+            "val1": 10,
+            "answer2": "Kalo butuh duit",
+            "val2": 1,
+            "answer3": "Kalo butuh makanan",
+            "val3": 2,
+            "answer4": "Kalo butuh kerjaan",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q5.gif",
+      "name": "Kalo temen gue kecipratan air comberan di jalan, reaksi gue…",
+      "type": "q5",
+      "answers": [
+         {
+            "answer1": "Marahin yang nyiprat",
+            "val1": 1,
+            "answer2": "Bantu kasih baju cadangan",
+            "val2": 10,
+            "answer3": "Diem aja",
+            "val3": 2,
+            "answer4": "Ikut nyipratin lagi",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q6.gif",
+      "name": "Gue diajak tahun baru di hutan rimba, gue bakal…",
+      "type": "q6",
+      "answers": [
+         {
+            "answer1": "Gak ikut, mending sendirian",
+            "val1": 10,
+            "answer2": "Ikut karena fomo",
+            "val2": 1,
+            "answer3": "Ajak buat pindah tempat",
+            "val3": 2,
+            "answer4": "Bantuin bikin api unggun",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q7.gif",
+      "name": "Gue suka diprotes sama pacar karena…",
+      "type": "q7",
+      "answers": [
+         {
+            "answer1": "Kadang perhitungan",
+            "val1": 1,
+            "answer2": "Jorok",
+            "val2": 2,
+            "answer3": "Suka gak peka",
+            "val3": 10,
+            "answer4": "Berisik",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q8.gif",
+      "name": "Hal dalam pacaran yang paling gue gak suka itu…",
+      "type": "q8",
+      "answers": [
+         {
+            "answer1": "Harus split bill",
+            "val1": 1,
+            "answer2": "Manggilnya harus sayang atau beb",
+            "val2": 2,
+            "answer3": "Harus komitmen",
+            "val3": 3,
+            "answer4": "Kalo dikekang",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q9.gif",
+      "name": "Sifat gue yang kadang pengen gue ilangin tuh…",
+      "type": "q9",
+      "answers": [
+         {
+            "answer1": "Males bangun pagi",
+            "val1": 1,
+            "answer2": "Keras kepala",
+            "val2": 10,
+            "answer3": "Jorok kalo makan",
+            "val3": 2,
+            "answer4": "Ngomongin orang dari belakang",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/aqua/q10.gif",
+      "name": "Banyak orang yang gak tau kalo sebenernya gue suka ngikutin…",
+      "type": "q10",
+      "answers": [
+         {
+            "answer1": "Tontonan mukbang",
+            "val1": 1,
+            "answer2": "Ilmu bela diri",
+            "val2": 2,
+            "answer3": "Isu-isu di sekitar",
+            "val3": 10,
+            "answer4": "Tren viral jaman sekarang",
+            "val4": 3
+         }
+      ]
+   }
+   ]

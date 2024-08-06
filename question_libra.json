@@ -1,0 +1,172 @@
+[
+    {
+      "image": "https://cretivox.com/zodiac/libra/q1.gif",
+      "name": "Hal yang paling gue takutin itu…",
+      "type": "q1",
+      "answers": [
+         {
+            "answer1": "Beli tahu cabenya 10",
+            "val1": 1,
+            "answer2": "Pergi jalan-jalan sendirian",
+            "val2": 10,
+            "answer3": "Makanan gue disemutin",
+            "val3": 2,
+            "answer4": "Tidur lampunya mati",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/libra/q2.gif",
+      "name": "Kata temen-temen, gue itu orangnya…",
+      "type": "q2",
+      "answers": [
+         {
+            "answer1": "Pendengar yang baik",
+            "val1": 10,
+            "answer2": "Suka nolongin orang",
+            "val2": 1,
+            "answer3": "Terlalu polos",
+            "val3": 2,
+            "answer4": "Pinter banget",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/libra/q3.gif",
+      "name": "Kalo denger berita jelek, biasanya yang gue lakuin…",
+      "type": "q3",
+      "answers": [
+         {
+            "answer1": "Ikut nyebarin beritanya",
+            "val1": 1,
+            "answer2": "Ketawa aja",
+            "val2": 2,
+            "answer3": "Cari tau dulu",
+            "val3": 10,
+            "answer4": "Langsung percaya",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/libra/q4.gif",
+      "name": "Kalo diajak main, terus ketemu orang baru, gue bakal…",
+      "type": "q4",
+      "answers": [
+         {
+            "answer1": "Gak mau dateng",
+            "val1": 1,
+            "answer2": "Kenalan sana sini",
+            "val2": 10,
+            "answer3": "Cari calon pacar",
+            "val3": 2,
+            "answer4": "Pake baju yang paling heboh",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/libra/q5.gif",
+      "name": "Gue suka warna rambut mejikuhibiniu, tapi yang gue gak suka tuh…",
+      "type": "q5",
+      "answers": [
+         {
+            "answer1": "Ditemenin sama orang",
+            "val1": 1,
+            "answer2": "Dengerin cerita orang",
+            "val2": 2,
+            "answer3": "Jalan-jalan ramean",
+            "val3": 3,
+            "answer4": "Hidup gak teratur",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/libra/q6.gif",
+      "name": "Kalo bisa kerja di NASA, gue paling cocok di bagian…",
+      "type": "q6",
+      "answers": [
+         {
+            "answer1": "Dengerin curhatan para astronot",
+            "val1": 10,
+            "answer2": "Asisten pribadi si astronot",
+            "val2": 1,
+            "answer3": "Nyatet keperluan astronot",
+            "val3": 2,
+            "answer4": "Masak-masak buat astronot",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/libra/q7.gif",
+      "name": "Gue masih ada kekurangan, tapi gue jago banget soal…",
+      "type": "q7",
+      "answers": [
+         {
+            "answer1": "Ngitung buat split bill",
+            "val1": 1,
+            "answer2": "Minjem duit ke orang",
+            "val2": 2,
+            "answer3": "Gombalin orang",
+            "val3": 10,
+            "answer4": "Cari kekurangan orang",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/libra/q8.gif",
+      "name": "Kalo ada penghargaan, nominasi yang cocok buat gue tuh…",
+      "type": "q8",
+      "answers": [
+         {
+            "answer1": "Si paling males dengerin cerita orang",
+            "val1": 1,
+            "answer2": "Si paling gila olahraga",
+            "val2": 2,
+            "answer3": "Si paling realistis",
+            "val3": 3,
+            "answer4": "Si paling gak mau ketinggalan berita",
+            "val4": 10
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/libra/q9.gif",
+      "name": "Kalo gue pacaran, pacar gue pasti seneng soalnya…",
+      "type": "q9",
+      "answers": [
+         {
+            "answer1": "Gue romantis pol",
+            "val1": 10,
+            "answer2": "Soalnya gue cakep",
+            "val2": 1,
+            "answer3": "Dibayarin mulu",
+            "val3": 2,
+            "answer4": "Gue jago masak",
+            "val4": 3
+         }
+      ]
+   },
+    {
+      "image": "https://cretivox.com/zodiac/libra/q10.gif",
+      "name": "Gue berani usahain apapun asalkan…",
+      "type": "q10",
+      "answers": [
+         {
+            "answer1": "Gue diajak kalo pergi",
+            "val1": 1,
+            "answer2": "Orang lain seneng karena gue",
+            "val2": 10,
+            "answer3": "Gak ngebosenin",
+            "val3": 2,
+            "answer4": "Ada tantangannya",
+            "val4": 3
+         }
+      ]
+   }
+   ]
